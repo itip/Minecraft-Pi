@@ -1,11 +1,3 @@
-# Notes
-
-- Organise examples folder
-- Add project README.
-
-----
-
-
 # Introduction
 
 A brief guide on how to set up Minecraft Pi and use Python to control the game. If you need help figuring out the controls, see the  _Getting Started_ section at the end of this page.
