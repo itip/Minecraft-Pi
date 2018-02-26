@@ -9,6 +9,9 @@ You can edit the Python code using any text editor you like, however I would rec
 
 ![Editor](images/editor.jpg)
 
+
+The following shows how to perform common tasks using using the Minecraft API. For a comprehensive list of functions, see [this page](http://www.stuffaboutcode.com/p/minecraft-api-reference.html).
+
 ## Example 1: Moving The Player
 
 Enter the following into your editor.
@@ -157,6 +160,7 @@ To see a more complicated example, which builds a basic house using various diff
 
 ![House](images/house1.jpg)
 ![House](images/house2.jpg)
+
 
 ----
 
