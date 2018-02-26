@@ -1,3 +1,5 @@
+# See images/house1.jpg to see what this looks like
+
 from mcpi.minecraft import Minecraft
 import mcpi.block as block
 
