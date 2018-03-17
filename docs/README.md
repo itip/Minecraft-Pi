@@ -1,3 +1,9 @@
 # Minecraft Pi
 
-* [Introduction to Minecraft Pi and Setup Instructions](/Minecraft-Pi/introduction)
+## Introduction 
+
+* [Python Instructions](/Minecraft-Pi/introduction)
+
+## Lessons
+
+* City Planner
