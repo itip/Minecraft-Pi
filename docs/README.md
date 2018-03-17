@@ -1,5 +1,3 @@
-# Web Page
+# Minecraft Pi
 
-## Introduction
-
-Hello
+* [Introduction to Minecraft Pi and Setup Instructions](/Minecraft-Pi/introduction)

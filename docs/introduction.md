@@ -7,7 +7,7 @@ A brief guide on how to set up Minecraft Pi and use Python to control the game. 
 
 You can edit the Python code using any text editor you like, however I would recommend using the _Thonny (Simple Mode)_ editor which is pre-installed (and can be found in the menu under _Programming_). If you have a big enough screen then I would recommend placing the editor alongside Minecraft Pi so you don't have to keep switching windows.
 
-![Editor](images/editor.jpg)
+![Editor](images/introduction/editor.jpg)
 
 
 The following shows how to perform common tasks using using the Minecraft API. For a comprehensive list of functions, see [this page](http://www.stuffaboutcode.com/p/minecraft-api-reference.html).
@@ -32,7 +32,7 @@ Save the file and call it `minecraft.py`.  Now press _Run_ to execiute the code.
 
 The player should now be high up above the ground. Hold the _shift_ key to go back to the ground!
 
-![High Up](images/highup.jpg)
+![High Up](images/introduction/highup.jpg)
 
 ## Example 2: Placing Blocks
 
@@ -52,7 +52,7 @@ mc.setBlock(x+2, y, z+2, block.BRICK_BLOCK.id)
 
 ```
 
-![Block](images/block.jpg)
+![Block](images/introduction/block.jpg)
 
 Placing lots individual blocks can get a bit tedious. Luckily, there's a `setBlocks` function which allows you place multiple at the same time. Replace the `setBlock` code with the following:
 
@@ -60,7 +60,7 @@ Placing lots individual blocks can get a bit tedious. Luckily, there's a `setBlo
 mc.setBlocks(x+2, y, z+2, x+2, y+2, z+4, block.BRICK_BLOCK.id)
 ```
 
-![Wall](images/wall.jpg)
+![Wall](images/introduction/wall.jpg)
 
 The `setBlocks` method takes two positions and fills in the space in between. So, in our example, we increased the Z coordinate (so the wall was wider) and increased the the Y coordinate so the wall was taller.
 
@@ -151,15 +151,15 @@ mc = Minecraft.create()
 mc.postToChat("Hello Minecraft")
 ``` 
 
-![Posting a chat message](images/message.jpg)
+![Posting a chat message](images/introduction/message.jpg)
 
 
 ## Example 4: Building a House
 
 To see a more complicated example, which builds a basic house using various different types of blocks see the `house.py` file in the _examples_ directory.
 
-![House](images/house1.jpg)
-![House](images/house2.jpg)
+![House](images/introduction/house1.jpg)
+![House](images/introduction/house2.jpg)
 
 
 ----
@@ -172,8 +172,8 @@ You'll need a Raspberry Pi which has Minecraft Pi pre-installed. Ideally, your P
 
 Open the _MineCraft Pi_ program (under _Games_) and start a game. Alternatively, you can join an existing game which is running on another Raspberry Pi on your local network.
 
-![Launching Minecraft Pi](images/desktop.jpg)
-![Start screen](images/start.jpg)
+![Launching Minecraft Pi](images/introduction/desktop.jpg)
+![Start screen](images/introduction/start.jpg)
 
 
 ## Controls
