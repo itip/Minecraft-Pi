@@ -29,8 +29,18 @@ Create a house for a family to live in. If you have time, create a street with s
 * Some windows
 * A chimney
 * A roof
-* A garden 
 
+If you have time, you could also add a garden.
+
+![House](images/cityplanner/house.jpg)
+[Image source](https://mr-foxhound.deviantart.com/art/Minecraft-Survival-House-alt-versio-on-PS4-481721327)
+
+### School
+
+Create a school. Perhaps you could create a Minecraft version of your school. It should have:
+
+* The school building.
+* A playing field.
 
 ### Sports Stadium
 
@@ -42,17 +52,8 @@ Create a sports stadium for your town. It can be for football, rugby, cricket, i
 
 You could also consider adding advertising and a score board.
 
-### Park
-
-Create a place where people can relax and play sports. The park should have:
-
-* A field where people can play sports.
-* An area where children can play, e.g. perhaps you could build a climbing frame.
-* A small shop where people can buy snacks.
-
-### Shop
-
-Create a place where people can buy food. 
+![Stadium](images/cityplanner/stadium.png)
+[Image source](https://fifteenparsecs.wordpress.com/2012/04/19/watford-stadium-in-minecraft/)
 
 ### Police & Fire Station 
 
@@ -61,10 +62,18 @@ Create a police station and/or a fire station.
 * Create the building.
 * Add some vehicles.
 
-### School
+### Park
 
-Create a school. Perhaps you could create a Minecraft version of your school. It should have:
+Create a place where people can relax and play sports. The park should have:
 
-* The school building.
-* A playing field.
+* A field where people can play sports.
+* An area where children can play, e.g. perhaps you could build a climbing frame.
+* A small shop where people can buy snacks.
+
+![Park](images/cityplanner/park.jpg)
+[Image source](https://www.flickr.com/photos/58599263@N05/7232198952)
+
+### Shop
+
+Create a place where people can buy food. 
 

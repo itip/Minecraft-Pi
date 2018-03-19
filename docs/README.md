@@ -6,4 +6,4 @@
 
 ## Lessons
 
-* City Planner
+* [City Planner](/Minecraft-Pi/city)
